@@ -1,0 +1,16 @@
+{
+  "created_at_beijing": "2026-05-11T21:56:43+08:00",
+  "record_count": 350,
+  "fields": [
+    "id",
+    "problem",
+    "steps",
+    "first_error_step"
+  ],
+  "label_semantics": "first_error_step is either the string correct or a 1-based integer first-error step.",
+  "files": {
+    "data": "data/test.jsonl",
+    "readme": "README.md",
+    "requirements": "BENCHMARK_FORMALIZATION_REQUIREMENTS.md"
+  }
+}
